@@ -15,6 +15,7 @@ El el Path del CMD tienes que tener "pip" de python, al instalar python te pregu
 para instalar las librerias coloca el siguiente comando:
 
 $pip install numpy
+
 $pip install matplotlib
 
 Tambien lo puedes ver en GOOGLE COLAB
