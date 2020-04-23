@@ -6,8 +6,10 @@ y dibujando patrones incompletos puede predecir el patron al cual nos referimos.
 
 # INSTALACION
 Para que funcione de manera local en tu PC tienes que tener instalado Python y las librerias:
+Python 
+https://www.python.org/downloads/
 
-numpy, matploitlib.
+Librerias necesarias numpy, matploitlib.
 
 El el Path del CMD tienes que tener "pip" de python, al instalar python te pregunta si quieres agregar al Path
 para instalar las librerias coloca el siguiente comando:
